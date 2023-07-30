@@ -65,17 +65,18 @@
             height: 25px;
             font-size: 20px;
             line-height: 8.5px;
-            margin-top: 40px;
+            margin-top: 49px;
         }
 
         .contactIcon{
             display: flex;
-            margin-top: 20px;
+            margin-top: 11px;
             .whatsAppIcon{
-
+                cursor: pointer;
             }
             .telegramIcon{
-                margin-left: 30px;
+                margin-left: 20px;
+                cursor: pointer;
             }
         }
     }
