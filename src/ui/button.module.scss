@@ -1,0 +1,11 @@
+@import '../assets/_vars.sass';
+
+.main{
+    .numbtn{
+        width: 220px;
+        height: 60px;
+        border-radius: 40px;
+        background-image: $pinkSecond;
+        cursor: pointer;
+    }
+}
